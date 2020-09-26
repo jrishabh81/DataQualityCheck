@@ -1,0 +1,6 @@
+/.idea/
+spark-warehouse
+target
+.class
+*.iml
+*.log
